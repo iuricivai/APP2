@@ -1,14 +1,20 @@
-		<?xml version="1.0" encoding="UTF-8"?>
-	<widget xmlns = "http://www.w3.org/ns/widgets"
-		xmlns:gap = "http://phonegap.com/ns/1.0"
-		xmlns:android = "http://schemas.android.com/apk/res/android"
-		id        = "Biblioteca ernesto ragionieri"
-		versionCode="10"
-		version   = "1.0.0">
-		<name>Biblioteca Ernesto Ragionieri	</name>
-		<description>Una guida agli spazi della biblioteca.	</description>
-		
-		<author href="http://www.comune.sesto-fiorentino.fi.it/biblioteca/home" email="biblioteca@comune.sesto-fiorentino.fi.it">
-     Biblioteca Ernesto Ragionieri
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.phonegap.example"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Biblioteca Ernesto Ragionieri</name>
+
+  <description>
+    Una guida agli spazi della biblioteca.
+  </description>
+
+  <author href="http://www.comune.sesto-fiorentino.fi.it/biblioteca/home" email="biblioteca@comune.sesto-fiorentino.fi.it">
+      Biblioteca Ernesto Ragionieri
   </author>
-			</widget>
+
+</widget>
